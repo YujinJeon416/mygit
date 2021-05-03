@@ -12,6 +12,7 @@
 <p>master 가나다라마바사</p>
 <!-- master end -->
 <!-- bugfix start -->
+<p>bugfix 1234567890</p>
 <!-- bugfix end -->
 
 <a href="${pageContext.request.contextPath}/hellogit.do">hello git.do</a>
