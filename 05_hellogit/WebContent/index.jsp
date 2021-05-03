@@ -8,7 +8,9 @@
 </head>
 <body>
 <h1>Hello Git</h1>
-<a href="${pageContext.request.contextPath}/hellogit.do">hello git</a>
+<a href="${pageContext.request.contextPath}/hellogit.do">hello git.do</a>
+<a href="${pageContext.request.contextPath}/food.do">food.do</a>
+
 
 
 
